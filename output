@@ -1,0 +1,20 @@
+Enter the total number of roots (n): 
+4
+Enter the minimum number of roots required (k): 
+3
+Enter the points (x, base, encoded y) for n roots:
+Enter x: 1
+Enter base: 10
+Enter encoded y: 4
+Enter x: 2
+Enter base: 2
+Enter encoded y: 111
+Enter x: 3
+Enter base: 10
+Enter encoded y: 12
+Enter x: 6
+Enter base: 4
+Enter encoded y: 213
+Secret (constant term): 3
+
+=== Code Execution Successful ===
